@@ -54,4 +54,4 @@ function getAndPrintHTML (host, path) {
   });
 
 }
-getAndPrintHTML('sytantris.github.io','/http-examples/step1.html');
+getAndPrintHTML('sytantris.github.io','/http-examples/step3.html');

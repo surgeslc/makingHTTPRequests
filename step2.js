@@ -9,7 +9,7 @@ function getAndPrintHTML () {
   // particular resource (like '/login/index.html'), that would be defined in the path
   var requestOptions = {
     host: 'sytantris.github.io',
-    path: '/http-examples/step1.html'
+    path: '/http-examples/step2.html'
   };
   var dataFromServer = "";
 
